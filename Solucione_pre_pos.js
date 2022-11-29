@@ -1,7 +1,7 @@
 //posorder
 //let exprecion = "342*-11/+"; 
 //let exprecion = "432*+6-9+36*9/+"
-let exprecion = "24*2-66/+"
+//let exprecion = "24*2-66/+"
 
 //preorder
 //let exprecion = "+-3*42/11";
